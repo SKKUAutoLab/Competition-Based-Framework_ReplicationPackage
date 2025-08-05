@@ -75,3 +75,15 @@ For each survey item, the following were calculated using Excel built-in functio
 
 - `df` is calculated using the **Welch-Satterthwaite approximation**:
   `df = ((SD_pre^2/n_pre + SD_post^2/n_post)^2) / ((SD_pre^2/n_pre)^2)/(n_pre-1) + ((SD_post^2/n_post)^2)/(n_post-1) )`
+
+
+## 5. Correlation
+
+- **Excel Formula**:
+`=CORREL(array1 , array2)`
+
+- **p-value for Correlation Formula**:
+`=T.DIST.2T(ABS (t) , n - 2)`
+
+- **Where**:
+  `t = (r * SQRT(n - 2)) / SQRT(1 - r^2)`

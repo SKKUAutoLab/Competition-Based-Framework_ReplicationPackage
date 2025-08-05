@@ -65,6 +65,9 @@ Analysis includes:
 - Paired and independent t-tests
 - Cohen’s d
 - 95% Confidence Intervals
+- Correlation
+
+Due to privacy concerns, we are unable to share the raw data for peer evaluation and final exam scores. Instead, we provide only aggregated statistics to ensure participant confidentiality.
 
 ---
 
