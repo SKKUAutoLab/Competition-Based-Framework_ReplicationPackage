@@ -104,7 +104,7 @@ Sample assignments and advanced exercises provided to students during both works
 Starter code and instructional files shared with students.
 
 - The competition provides sample code used in the workshop modules.
-- The Capstone Design (2025-1) provides ROS 2-based autonomous driving system code.
+- The Capstone Design (2025-1) provides ROS 2-based autonomous driving system code. ([Related repo](https://github.com/SKKUAutoLab/ros2_autonomous_vehicle_book)
 
 ---
 
