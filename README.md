@@ -55,7 +55,7 @@ replication-package/
 
 Anonymized survey data from competitions and capstone courses are provided as CSV files. 
 
-- 2025-1 Capstone design survey were conducted non-anonymously to enable paired-sample analysis.
+- 2025-1 Capstone design survey were conducted non-anonymously to enable paired-sample analysis
 - Other surveys were conducted anonymously
 
 
@@ -103,8 +103,9 @@ Sample assignments and advanced exercises provided to students during both works
 
 Starter code and instructional files shared with students.
 
-- The competition provides sample code used in the workshop modules.
-- The Capstone Design (2025-1) provides ROS 2-based autonomous driving system code. ([Related repo](https://github.com/SKKUAutoLab/ros2_autonomous_vehicle_book))
+- The competition provides sample code used in the workshop modules
+- The Capstone Design (2025-1) provides ROS 2-based autonomous driving system code ([Related repo](https://github.com/SKKUAutoLab/ros2_autonomous_vehicle_book))
+- [ROS 2-based Simulator code](https://github.com/SKKUAutoLab/ros2_autonomous_vehicle_simulation) and [Dataset](https://www.kaggle.com/datasets/skkuhhk/ros2-autonomous-vehicle-simulation)
 
 ---
 
