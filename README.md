@@ -1,4 +1,4 @@
-# Replication Package: Competition-Based Autonomous Driving Education
+# Replication Package: Competition-Based Framework for Autonomous Driving Education
 
 This repository contains data and materials used for the study titled:  
 **"Developing a Competition-Based Framework for Undergraduate Autonomous Driving Education: A Two-Year Iterative Design Study"**.
